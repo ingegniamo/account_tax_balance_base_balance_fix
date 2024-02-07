@@ -1,13 +1,6 @@
-Title
+Account tax balance fix for base balance
 ===============================
-Description
-
-Configuration
-=============
-
-Usage
-=====
-Descriprion usage
+Fix calcolo base balance in caso di gruppi imposta
 
 
 Credits
@@ -21,4 +14,4 @@ Authors
 Contributors
 ~~~~~~~~~~~~
 
-* Moccia Francesco <moccia.f@stesi.eu>
+* Michele <dicroce.m@stesi.eu>

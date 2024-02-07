@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "",
+    'name': "Account tax balance base balance fix",
     
     'summary': "",
   
@@ -15,7 +15,7 @@
     'website': "http://www.stesi.consulting",
 
     # any module necessary for this one to work correctly
-    'depends': [],
+    'depends': ['l10n_it_account'],
     
     # always loaded
     'data': [],
